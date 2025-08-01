@@ -1,0 +1,42 @@
+[
+  {
+    "title": "CUNYSphere",
+    "image": "images/pic01.jpg",
+    "description": "This project, designed for CUNY students, provides a two-fold service approach for students. Firstly, it offers a selection of vetted academic resources, assisting students in their studies. Secondly, it creates a dedicated space for students to interact, discuss, and collaborate on academic topics.",
+    "languages": "Javascript, HTML, CSS",
+    "technologies": "React.js, Node.js, Next.js, Express.js, Bcrypt.js, passport.js, postgresSQL, Firebase, AWS S3",
+    "link": "#"
+  },
+  {
+    "title": "Animal Hunting",
+    "image": "images/pic02.jpg",
+    "description": "This first person shooter Unity VR game consists of 4 different animal hunting levels, each with their own differents features.",
+    "languages": "C#",
+    "technologies": "Unity VR",
+    "link": "#"
+  },
+  {
+    "title": "The History of Art",
+    "image": "images/pic03.jpg",
+    "description": "This hackathon project consists of the whole history of art and our opinions to the future of art.",
+    "languages": "HTML, CSS, Javascript",
+    "technologies": null,
+    "link": "#"
+  },
+  {
+    "title": "Why so cold?",
+    "image": "images/pic04.jpg",
+    "description": "This computer vision project implements OpenCV to capture real time video from a webcam detecting faces and smiles using pre-trained Haar feature-based cascade classifiers. A photo will only be taken if you are smiling.",
+    "languages": "Python",
+    "technologies": null,
+    "link": "#"
+  },
+  {
+    "title": "Cheetcode",
+    "image": "images/cheetcode.png",
+    "description": "WIP",
+    "languages": "Javascript, HTML, CSS",
+    "technologies": "Next.js, Node.js, MongoDB, MaterialUI...",
+    "link": "https://cheetcode.dev"
+  }
+]
